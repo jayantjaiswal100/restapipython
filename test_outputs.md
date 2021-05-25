@@ -1,0 +1,1 @@
+{"dominant_color": "#020141", "logo_border": "#000035"}{"dominant_color": "#98fd03", "logo_border": "#97fa14"}{"dominant_color": "#98c42a", "logo_border": "#9ac227"}{"dominant_color": "#000000", "logo_border": "#e6e6e6"}{"dominant_color": "#0167bb", "logo_border": "#e6e6e6"}
